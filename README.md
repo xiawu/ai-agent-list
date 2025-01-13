@@ -126,5 +126,145 @@
     - Google Generative AI
     - Puppeteer
 
+## 8. AI Agent Marketplaces
+- **Agency Marketplace**
+  - **Category:** AI Agent Ecosystem
+  - **Features:**
+    - AI agent discovery and deployment
+    - Marketplace for AI solutions
+    - Agent customization
+    - Integration capabilities
+  - **Source:** [Agency Marketplace](https://marketplace.agen.cy)
+  - **Available Agents:**
+    - Task automation agents
+    - Data processing agents
+    - Custom workflow agents
+    - Integration agents
+
+## 9. Browser Automation Agents
+- **Browser Use**
+  - **Category:** Browser Automation
+  - **Features:**
+    - AI-controlled browser automation
+    - LLM integration (supports GPT-4)
+    - Playwright integration
+    - Task automation capabilities
+    - Visual interaction support
+  - **Source:** [GitHub Repository](https://github.com/browser-use/browser-use)
+  - **Use Cases:**
+    - Document automation
+    - Web scraping
+    - Form filling
+    - Multi-tab operations
+  - **Tech Stack:**
+    - Python
+    - Playwright
+    - LangChain
+    - OpenAI integration
+
+## 10. Media Conversion Agents
+- **eBook2Audiobook**
+  - **Category:** Text-to-Speech Conversion
+  - **Features:**
+    - eBook to audiobook conversion
+    - Multi-language support (1,107+ languages)
+    - Voice cloning capabilities
+    - Chapter preservation
+    - Metadata integration
+  - **Source:** [GitHub Repository](https://github.com/DrewThomasson/ebook2audiobook)
+  - **Tech Stack:**
+    - Python
+    - Coqui TTS
+    - Calibre
+    - FFmpeg
+  - **Supported Formats:**
+    - Multiple eBook formats (.epub, .pdf, .mobi, etc.)
+    - Output in .m4b with chapters
+  - **Key Capabilities:**
+    - High-quality text-to-speech
+    - Custom voice model support
+    - GPU acceleration
+    - Web GUI interface
+
+## 11. Development Toolkits
+- **Agent Service Toolkit**
+  - **Category:** AI Agent Development Framework
+  - **Features:**
+    - LangGraph agent implementation
+    - FastAPI service integration
+    - Streamlit user interface
+    - Advanced streaming support
+    - Content moderation
+  - **Source:** [GitHub Repository](https://github.com/JoshuaC215/agent-service-toolkit)
+  - **Tech Stack:**
+    - Python
+    - LangGraph
+    - FastAPI
+    - Streamlit
+  - **Key Capabilities:**
+    - Multiple agent support
+    - Asynchronous design
+    - Feedback mechanism
+    - Docker support
+    - Testing framework
+  - **Components:**
+    - LangGraph-based agents
+    - FastAPI service layer
+    - Client interface
+    - Streamlit chat interface
+
+- **Vercel AI SDK**
+  - **Category:** AI Development Framework
+  - **Features:**
+    - Unified Provider API
+    - Streaming AI responses
+    - Framework-agnostic support
+    - Generative UI capabilities
+    - Multiple AI provider integration
+  - **Source:** [Official Website](https://sdk.vercel.ai/)
+  - **Tech Stack:**
+    - TypeScript
+    - React/Next.js compatible
+    - Vue/Nuxt compatible
+    - SvelteKit compatible
+  - **Key Capabilities:**
+    - Switch between AI providers easily
+    - Real-time streaming responses
+    - Dynamic UI generation
+    - Built-in TypeScript support
+  - **Supported Providers:**
+    - OpenAI
+    - Claude
+    - Hugging Face
+    - And more
+  - **Installation:**
+    ```bash
+    npm i ai
+    ```
+
+- **GenAI**
+  - **Category:** AI Development Framework
+  - **Features:**
+    - LLM implementations
+    - Agent-based architectures
+    - Jupyter Notebook examples
+    - Python-based development
+  - **Source:** [GitHub Repository](https://github.com/Abhinavk910/GenAI)
+  - **Tech Stack:**
+    - Python
+    - Jupyter Notebook
+    - Poetry (dependency management)
+  - **Components:**
+    - LLM module
+    - Agent module
+    - Example notebooks
+  - **Project Structure:**
+    - Modular architecture
+    - Clear documentation
+    - Easy-to-follow examples
+  - **Language Distribution:**
+    - Jupyter Notebook (96.1%)
+    - Python (3.9%)
+
 ## Summary
-This list represents a diverse range of AI agents, each specialized for specific use cases and industries. These agents continue to evolve and improve, pushing the boundaries of what's possible with artificial intelligence.
+This list represents a diverse range of AI agents, each specialized for specific use cases and industries. These agents continue to evolve and improve, pushing the boundaries of what's possible with artificial intelligence. The inclusion of AI agent marketplaces, browser automation tools, media conversion agents, and development toolkits demonstrates the growing ecosystem of readily available AI solutions for various needs.
