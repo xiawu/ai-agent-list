@@ -266,5 +266,41 @@
     - Jupyter Notebook (96.1%)
     - Python (3.9%)
 
+- **LiveKit Agents**
+  - **Category:** Multimodal AI Development Framework
+  - **Features:**
+    - Real-time multimodal AI applications
+    - Voice agent capabilities
+    - Video processing
+    - WebRTC integration
+    - Telephony integration
+  - **Source:** [GitHub Repository](https://github.com/livekit/agents)
+  - **Tech Stack:**
+    - Python (93.1%)
+    - C++ (4.6%)
+    - Multiple framework support
+  - **Key Capabilities:**
+    - Flexible AI provider integrations
+    - Built-in task scheduling
+    - Real-time media transport
+    - Data exchange with clients
+    - Open-source architecture
+  - **Supported Integrations:**
+    - Multiple LLM providers (OpenAI, Anthropic, Google, etc.)
+    - Speech-to-Text (Azure, Deepgram, Whisper, etc.)
+    - Text-to-Speech (ElevenLabs, Google, OpenAI, etc.)
+    - RAG capabilities
+    - Voice activity detection
+  - **Installation:**
+    ```bash
+    pip install livekit-agents
+    ```
+  - **Use Cases:**
+    - Voice assistants
+    - Video agents
+    - Transcription services
+    - Multi-agent conferences
+    - Content moderation
+
 ## Summary
 This list represents a diverse range of AI agents, each specialized for specific use cases and industries. These agents continue to evolve and improve, pushing the boundaries of what's possible with artificial intelligence. The inclusion of AI agent marketplaces, browser automation tools, media conversion agents, and development toolkits demonstrates the growing ecosystem of readily available AI solutions for various needs.
